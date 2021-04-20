@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ruvimbo!
 
-
-### Hi there 👋
-
 <!--
 **ruemee/ruemee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ruvimbomambinge?style=social)
