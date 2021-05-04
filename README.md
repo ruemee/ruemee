@@ -20,11 +20,5 @@ Here are some ideas to get you started:
 
 ---
 
-🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="python Logo" width="50" height="50"/>
 
-
-<img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="Angular Logo" width="50" height="50"/>
-
----
 
